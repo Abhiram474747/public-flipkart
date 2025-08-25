@@ -5,3 +5,5 @@ wednesday
 thursday
 friday 
 saturday
+ it repeats
+
